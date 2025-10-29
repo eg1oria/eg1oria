@@ -3,7 +3,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer;Backend+Developer;Fullstack+Engineer;Люблю+кодить+и+создавать+новое)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE...;INIT+ZEWS+FF+CORE;LOADING+NEURAL+MODULES;WELCOME+TO+THE+GRID" alt="Glitch Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=⚡ZEWS+FF+INITIALIZING...;ACCESS+CYBER+GRID;SYSTEM+READY" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maitraysuthar/github-readme-svg-glitch/main/glitch.svg" width="450">
 </p>
 
 
