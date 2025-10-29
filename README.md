@@ -17,9 +17,9 @@
 ---
 
 ### 📊 GitHub Статистика:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZEWS-FF&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=eg1oria&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZEWS-FF&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eg1oria&layout=compact&theme=radical)
 
 ---
 
