@@ -1,5 +1,8 @@
 # Привет, я Egor 👋  
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer;Backend+Developer;Fullstack+Engineer;Люблю+кодить+и+создавать+новое)
+
+
 💻 **Frontend Developer**  
 🌍 Из Алматы, Казахстан  
 🚀 Люблю создавать красивые и функциональные веб-приложения  
