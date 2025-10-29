@@ -32,6 +32,6 @@
 ---
 
 ### 📫 Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_профиль)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:твоя@почта.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/eg1oria)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/твой_профиль](https://www.linkedin.com/in/zews-ff-62266038b/))
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](leontevegor57@gmail.com)
