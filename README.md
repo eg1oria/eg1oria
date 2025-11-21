@@ -2,12 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer;Люблю+кодить+и+создавать+новое)
 
-🌍 Из Алматы, Казахстан  
-🚀 Люблю создавать красивые и функциональные веб-приложения  
+Люблю создавать красивые и функциональные веб-приложения  
 
 ---
 
-### 🛠️ Мой стек:
+### Мой стек:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -27,15 +26,15 @@
 
 ---
 
-### 💬 Обо мне
-- 🔭 Сейчас работаю над проектом: `ALTapp`  
-- 🌱 Изучаю: Docker, MongoDB, Next.js  
-- 🎯 Цель: стать fullstack-разработчиком  
-- ⚡ Факт: люблю делать всё **“чисто и красиво”**
+### Обо мне
+-  Сейчас работаю над проектом: `ALTapp`  
+-  Изучаю: Docker, MongoDB, Next.js  
+-  Цель: стать fullstack-разработчиком  
+-  Факт: люблю делать всё **“чисто и красиво”**
 
 ---
 
-### 📫 Контакты
+### Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/eg1oria)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zews-ff-62266038b/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leontevegor57@gmail.com)
