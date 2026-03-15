@@ -6,6 +6,8 @@
 
 ---
 
+[![Frontend Developer](https://nataliagorlach.kz/api/embed/Egor/frontend-developer-1773433394924.svg?v=1773609790839)](https://nataliagorlach.kz/Egor/frontend-developer-1773433394924)
+
 
 
 ### Мой стек:
