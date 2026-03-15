@@ -6,8 +6,9 @@
 
 ---
 
-[![Frontend Developer](https://nataliagorlach.kz/api/embed/Egor/frontend-developer-1773433394924.svg)](https://nataliagorlach.kz/Egor/frontend-developer-1773433394924)
-
+<a href="https://nataliagorlach.kz/Egor/frontend-developer-1773433394924" target="_blank" rel="noopener noreferrer">
+  <img src="https://nataliagorlach.kz/api/embed/Egor/frontend-developer-1773433394924.svg" alt="Frontend Developer" width="495" />
+</a>
 ### Мой стек:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
