@@ -1,44 +1,61 @@
-# Привет, я Egor 👋  
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer;Люблю+кодить+и+создавать+новое)
+```
+  ███████╗ ██████╗  ██████╗ ██████╗
+  ██╔════╝██╔════╝ ██╔═══██╗██╔══██╗
+  █████╗  ██║  ███╗██║   ██║██████╔╝
+  ██╔══╝  ██║   ██║██║   ██║██╔══██╗
+  ███████╗╚██████╔╝╚██████╔╝██║  ██║
+  ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+```
 
-Люблю создавать красивые и функциональные веб-приложения  
+**fullstack · devops · clean architecture**
 
----
-
-[![Frontend Developer](https://nataliagorlach.kz/api/embed/Egor/frontend-developer-1773433394924.svg?v=1773609788267)](https://nataliagorlach.kz/Egor/frontend-developer-1773433394924)
-
-
-### Мой стек:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-
+</div>
 
 ---
 
-### 📊 GitHub Статистика:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eg1oria&show_icons=true&theme=radical)
+### stack
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eg1oria&layout=compact&theme=radical)
-
----
-
-### Обо мне
--  Сейчас работаю над проектом: `ALTapp`  
--  Изучаю: Docker, MongoDB, Next.js  
--  Цель: стать fullstack-разработчиком  
--  Факт: люблю делать всё **“чисто и красиво”**
+```
+frontend   →   Next.js · TypeScript · React · Redux · Tailwind
+backend    →   NestJS · Node.js · REST · WebSocket
+infra      →   Docker · Nginx · CI/CD · Linux
+database   →   MongoDB · PostgreSQL
+```
 
 ---
 
-### Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/eg1oria)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zews-ff-62266038b/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leontevegor57@gmail.com)
+### now
 
+- building `ALTapp` — fullstack web app
+- exploring system design & scalable architecture
+- moving toward production-grade DevOps
+
+---
+
+### metrics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eg1oria&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eg1oria&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e)
+
+</div>
+
+---
+
+### contact
+
+```
+tg    →   t.me/eg1oria
+mail  →   leontevegor57@gmail.com
+li    →   linkedin.com/in/zews-ff-62266038b
+```
+
+---
+
+<div align="center">
+<sub>wrote clean code · shipped things · learned the hard way</sub>
+</div>
