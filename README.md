@@ -28,7 +28,7 @@ database   →   MongoDB · PostgreSQL
 
 ### now
 
-- building `ALTapp` — fullstack web app
+- building `Foliart` — fullstack web app
 - exploring system design & scalable architecture
 - moving toward production-grade DevOps
 
